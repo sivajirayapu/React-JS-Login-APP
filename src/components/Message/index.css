@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .description {
+    font-size: 45px;
+  }
+}
